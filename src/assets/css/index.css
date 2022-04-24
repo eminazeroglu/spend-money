@@ -1,0 +1,9 @@
+@import "./tailwind.css";
+
+body, html, #root {
+    @apply overflow-hidden h-full
+}
+
+body {
+    @apply bg-gray-200
+}
