@@ -5,3 +5,5 @@
 > bənzər bir oyundur.
 
 **Demo:** https://spendmoney.netlify.app/
+
+![enter image description here](https://raw.githubusercontent.com/eminazeroglu/spend-money/master/public/spend-money.png)
