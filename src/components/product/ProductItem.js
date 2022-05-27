@@ -57,7 +57,7 @@ function ProductItem({item}) {
                     disabled={!basketCount?.amount}
                     className="flex-1 h-8 items-center justify-center text-white rounded font-medium bg-pink-500 disabled:bg-pink-500/60"
                 >
-                    Sat
+                    Sell
                 </button>
                 <span className="flex-1 text-center flex h-8 items-center justify-center border border-gray-200 rounded">{basketCount?.amount || 0}</span>
                 <button
@@ -65,7 +65,7 @@ function ProductItem({item}) {
                     disabled={(total + item.price) > money}
                     className="flex-1 h-8 items-center justify-center bg-green-500 text-white rounded font-medium disabled:bg-green-500/60"
                 >
-                    Al
+                    Buy
                 </button>
             </div>
         </div>

@@ -1,8 +1,7 @@
 ## React Spend Money
 
-> React təcrübəmizin artması üçün yazılmışdır bu oyun. Oyun dediyimiz
-> bir ara internetdə Bill Gates-in pulunu xərcləmə oyunu vardı buda ona
-> bənzər bir oyundur.
+> It is a simple money spending application. Inspired by https://neal.fun/. You're wasting the money of the 10 most popular millionaires.
+
 
 **Demo:** https://spendmoney.netlify.app/
 
